@@ -98,7 +98,7 @@ query {
 Filter results for:
 
 - `isResolved == false`
-- Author login is "cursor-bot" or "cursor[bot]"
+- Author login is "cursor-bot", "cursor", or "cursor[bot]"
 
 Extract for each comment: `threadId` (the thread's `id`), `path`, `line`, `body`.
 
